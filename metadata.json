@@ -1,0 +1,5 @@
+{
+  "name": "Background Remover",
+  "description": "Remove the background from any image locally in your browser.",
+  "requestFramePermissions": []
+}
